@@ -10,29 +10,6 @@ The foreign exchange (Forex) market is a global decentralized market for the tra
 
 The dataset we have used is that of IBM stock price history. The dataset starts from 1962-02-16 and ends on the date 2020-01-31. The data contains the Open, High, Low, Close as well as the trading Volume (OHLCV) of the IBM stock for every day between the aforementioned dates, leading to a total size of 14588 entries.
 
-![IBM](https://github.com/ayushabrol13/Forex-Stock-Price-Prediction-using-Transformer-and-Time-Embeddings-/blob/master/plots/IBM_Close_Price.png)
-
-![IBM Volume](https://github.com/ayushabrol13/Forex-Stock-Price-Prediction-using-Transformer-and-Time-Embeddings-/blob/master/plots/IBM_Volume.png)
-
-## Train, Validation and Test Split
-
-![Split](https://github.com/Praveenola/Forex-Stock-Price-Prediction/plots/data_separation.png)
-
-## Model Architecture
-
-![architecture](https://github.com/Praveenola/Forex-Stock-Price-Prediction-/blob/master/plots/architecture.png)
-
-## Initial Metrics and results
-
-![initial Metrics](https://github.com/ayushabrol13/Forex-Stock-Price-Prediction-using-Transformer-and-Time-Embeddings-/blob/master/plots/initial_model_metrics.png)
-
-![initial results](https://github.com/ayushabrol13/Forex-Stock-Price-Prediction-using-Transformer-and-Time-Embeddings-/blob/master/plots/initial_preds.png)
-
-## Final Metrics and results
-
-![final Metrics](https://github.com/ayushabrol13/Forex-Stock-Price-Prediction-using-Transformer-and-Time-Embeddings-/blob/master/plots/final_model_metrics.png)
-
-![final results](https://github.com/ayushabrol13/Forex-Stock-Price-Prediction-using-Transformer-and-Time-Embeddings-/blob/master/plots/final_preds.png)
 
 
 ## Conclusion
