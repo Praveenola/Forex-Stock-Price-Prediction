@@ -16,7 +16,7 @@ The dataset we have used is that of IBM stock price history. The dataset starts 
 
 ## Train, Validation and Test Split
 
-![Split](https://github.com/Praveenola/Forex-Stock-Price-Prediction-/blob/master/plots/data_separation.png)
+![Split](https://github.com/Praveenola/Forex-Stock-Price-Prediction/plots/data_separation.png)
 
 ## Model Architecture
 
