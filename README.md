@@ -16,11 +16,11 @@ The dataset we have used is that of IBM stock price history. The dataset starts 
 
 ## Train, Validation and Test Split
 
-![Split](https://github.com/ayushabrol13/Forex-Stock-Price-Prediction-using-Transformer-and-Time-Embeddings-/blob/master/plots/data_separation.png)
+![Split](https://github.com/Praveenola/Forex-Stock-Price-Prediction-/blob/master/plots/data_separation.png)
 
 ## Model Architecture
 
-![architecture](https://github.com/ayushabrol13/Forex-Stock-Price-Prediction-using-Transformer-and-Time-Embeddings-/blob/master/plots/architecture.png)
+![architecture](https://github.com/Praveenola/Forex-Stock-Price-Prediction-/blob/master/plots/architecture.png)
 
 ## Initial Metrics and results
 
